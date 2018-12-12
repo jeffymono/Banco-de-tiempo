@@ -1,0 +1,35 @@
+.cabeza{
+    position: fixed;
+    top:0;
+    height: 25px;
+    padding: 100px;
+}
+
+.sideBar{
+    top: 87px;
+}
+.pie{
+    position: fixed;
+    height: 25px;
+    width: 100%;
+    bottom: 0px;
+    background: #154360;
+    color:white;
+    
+}
+.main-container {
+    position: absolute;
+    left: 307px;
+    width: 77%;
+    top: 85px;
+    right: 0;
+    bottom: 54px;
+
+  }
+.publicar{
+    margin: auto;
+	width: 65%;	
+}
+.nac{
+    background: red;
+}
